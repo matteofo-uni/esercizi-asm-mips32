@@ -1,1 +1,1 @@
-# esercizi-asm-mips32
+# Esercizi Assembly MIPS32
